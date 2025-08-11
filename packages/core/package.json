@@ -1,5 +1,5 @@
 {
-    "name": "@zilliz/claude-context-core",
+    "name": "@csawicz/aws-claude-context-core",
     "version": "0.1.0",
     "description": "Core indexing engine for Claude Context",
     "main": "dist/index.js",

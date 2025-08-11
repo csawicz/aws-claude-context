@@ -1,5 +1,5 @@
 {
-    "name": "@zilliz/claude-context-mcp",
+    "name": "@csawicz/aws-claude-context-mcp",
     "version": "0.1.0",
     "description": "Model Context Protocol integration for Claude Context",
     "type": "module",
@@ -18,7 +18,7 @@
         "prepublishOnly": "pnpm build"
     },
     "dependencies": {
-        "@zilliz/claude-context-core": "workspace:*",
+        "@csawicz/aws-claude-context-core": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.12.1",
         "zod": "^3.25.55"
     },
